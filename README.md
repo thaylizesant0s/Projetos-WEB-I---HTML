@@ -2,6 +2,11 @@
 
 Bem-vindo(a) ao repositório dos projetos da disciplina **Desenvolvimento Web I**!
 
+Este repositório foi desenvolvido por:
+
+- **Gabriel Vinicius** - [GitHub](https://github.com/gabrielviniciussc)
+- **Thaylize Santos** - [GitHub](https://github.com/thaylizesant0s)
+
 ---
 
 ## Índice de Projetos
@@ -18,4 +23,4 @@ Bem-vindo(a) ao repositório dos projetos da disciplina **Desenvolvimento Web I*
 
 ---
 
-Obrigada por visitar o repositório! 
+Obrigada por visitar o repositório!
